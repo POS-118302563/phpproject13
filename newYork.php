@@ -96,7 +96,7 @@ div.desc {
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="http://localhost:8000/newYork.php">Home</a>
   <a href="http://localhost:8000/NYHistory.php">History</a>
-  <a href="http://localhost:8000/attractionsNY.php">Attractions</a>
+  <a href="http://localhost:8000/attractionsNY.php">Tourism</a>
   <a href="http://localhost:8000/sportNY.php">Sports</a>
 </div>
 

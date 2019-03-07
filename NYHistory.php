@@ -93,7 +93,7 @@ h1 {
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="http://localhost:8000/newYork.php">Home</a>
   <a href="http://localhost:8000/NYHistory.php">History</a>
-  <a href="http://localhost:8000/attractionsNY.php">Attractions</a>
+  <a href="http://localhost:8000/attractionsNY.php">Tourism</a>
   <a href="http://localhost:8000/sportNY.php">Sports</a>
 </div>
 
@@ -115,7 +115,7 @@ h1 {
 
 <div class="gallery">
   <a target="_blank">
-    <img src="https://www.shorpy.com/files/images/4a18594u1.jpg" alt="Cinque Terre" width="600" height="400">
+    <img src="https://sep.yimg.com/ay/yhst-133252830141239/pushcart-market-mott-st-north-from-bayard-st-manhattan-1907-24.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Manhattan , 1907</div>
 </div>
