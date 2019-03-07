@@ -49,15 +49,15 @@ background-size: 2000px 1000px
             </tr>
             <tr>
                             <td>Blockchain</td>
-                            <td><input type="radio" id="CocaCola" name="rdoGroup" value="1000" /></td>
+                            <td><input type="radio" id="block" name="rdoGroup" value="1000" /></td>
                         </tr>               
             <tr>
                             <td>Autonomous Things</td>
-                            <td><input type="radio" id="Sprite" name="rdoGroup" value="2000" /></td>
+                            <td><input type="radio" id="auto" name="rdoGroup" value="2000" /></td>
                         </tr>               
             <tr>
                             <td>Immersive Experience</td>
-                            <td><input type="radio" id="Fanta" name="rdoGroup" value="3000" /></td>
+                            <td><input type="radio" id="Imm" name="rdoGroup" value="3000" /></td>
                         </tr>   
                     </table>
                 </center>
@@ -101,26 +101,26 @@ background-size: 2000px 1000px
         function calcSub() {
             //Assigning variables to the values
             var subAmount = parseFloat(document.getElementById('txtSubTot').value);
-            var CocaCola = parseFloat(document.getElementById('CocaCola').value);
-            var Sprite = parseFloat(document.getElementById('Sprite').value);
-            var Fanta = parseFloat(document.getElementById('Fanta').value);
+            var block = parseFloat(document.getElementById('block').value);
+            var auto = parseFloat(document.getElementById('auto').value);
+            var Imm = parseFloat(document.getElementById('Imm').value);
            
 //            If radio buttons are clicked, values are assigned
-            if (document.getElementById('CocaCola').checked) {
-                document.intCalc.txtSubTot.value = CocaCola;
-                subAmount = CocaCola;
+            if (document.getElementById('block').checked) {
+                document.intCalc.txtSubTot.value = block;
+                subAmount = block;
                 calculation(subAmount);
                
             }
-        else if (document.getElementById('Sprite').checked) {
-                document.intCalc.txtSubTot.value = Sprite;
-                subAmount = Sprite;
+        else if (document.getElementById('auto').checked) {
+                document.intCalc.txtSubTot.value = auto;
+                subAmount = auto;
                  calculation(subAmount);
               
             }
-        else if (document.getElementById('Fanta').checked) {
-                document.intCalc.txtSubTot.value = Fanta;
-                subAmount = Fanta;
+        else if (document.getElementById('Imm').checked) {
+                document.intCalc.txtSubTot.value = Imm;
+                subAmount = Imm;
                  calculation(subAmount);
             }
         }   
