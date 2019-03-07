@@ -3,7 +3,7 @@
 <head>
 <style>
  body {
- background-color :    #2E8B57
+ background-image :    url("http://hdwpro.com/wp-content/uploads/2016/05/Beautiful-Green-Backgrounds.jpeg")
  }
  
  ul {

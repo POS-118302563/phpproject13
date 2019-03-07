@@ -4,7 +4,7 @@
 <style>
 
 body{
-    background-color: cornflowerblue
+    background-image:url("https://wallpapercave.com/wp/wp2590323.png")
 	}
 ul {
   list-style-type: none;

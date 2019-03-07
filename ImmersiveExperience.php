@@ -163,7 +163,7 @@ function closeNav() {
     <li> Augmented Reality : Augmented Reality is a technology that imposes a computer-generated image on the users view of the world. AR is constantly being used more and more to change how the real world and digital images interact.
 </ol>
 
-<p> More details are available <a href="https://assets.entrepreneur.com/content/3x2/2000/20170403182911-GettyImages-648307604.jpeg?width=700&crop=2:1">here</p>
+<p> More details are available <a href="https://www.augment.com/blog/virtual-reality-vs-augmented-reality/">here</p>
 <div class="gallery">
   <a target="_blank" >
     <img src="https://assets.entrepreneur.com/content/3x2/2000/20170403182911-GettyImages-648307604.jpeg?width=700&crop=2:1" alt="Dublin" width="600" height="400">

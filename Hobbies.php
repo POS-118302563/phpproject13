@@ -14,7 +14,7 @@
 	<meta content="http://www.thepetedesign.com/images/tiltedpage_scroll_image.png" property="og:image" />
 	<link rel="shortcut icon" id="favicon" href="favicon.png"> 
 	<meta name="author" content="Pete R.">
-	<link rel="canonical" href="http://www.thepetedesign.com/demos/tiltedpage_scroll_demo.html" />
+	<link rel="canonical" href="" />
   <link href='http://fonts.googleapis.com/css?family=Noto+Serif:400italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
@@ -371,7 +371,7 @@
 	    <div class="header">
         <h1>Interests , Travel , Consulting Services</h1>
  
-        <p class="credit">Created by <a href="http://www.thepetedesign.com">Padraig O'Sullivan</a>, Student At <a href="https://www.ucc.ie/" target="_blank">University College Cork</a> , <a href="https://www.ucc.ie/en/ck203/" target="_blank">BIS 1</a></p>
+        <p class="credit">Created by <a href="">Padraig O'Sullivan</a>, Student At <a href="https://www.ucc.ie/" target="_blank">University College Cork</a> , <a href="https://www.ucc.ie/en/ck203/" target="_blank">BIS 1</a></p>
        
   	  </div>
   	  <section class="page1">
