@@ -52,7 +52,7 @@ background-size: 2000px 1000px
   
    
         <div class="form">
-            <form name="Details" method="post" action="ebus3.php">
+            <form name="Details" method="post" action="eBus3.php">
                 <center>
                     <table cellspacing="10">
                         <h1><u>Personal Details</u></h1>
