@@ -39,9 +39,9 @@ li a:hover:not(.active) {
 <body>
 
 <ul>
-  <li><a class="active" href="http://localhost:8000/cv.html">CV</a></li>
-  <li><a href="http://localhost:8000/Hobbies.php">Interests</a></li>
-  <li><a href="http://localhost:8000/BusinessHome.php">E-Business</a></li>
+  <li><a class="active" href="cv.html">CV</a></li>
+  <li><a href="Hobbies.php">Interests</a></li>
+  <li><a href="BusinessHome.php">E-Business</a></li>
 </ul>
   
   <p>Welcome</p>
