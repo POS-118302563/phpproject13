@@ -396,7 +396,7 @@
       </section>
   	  <section class="page5">
         <div class="page_container">
-          <h1><a href="http://localhost:8000/BusinessHome.php" target="_blank">Consulting Services<br><small></small></a></h1>
+          <h1><a href="BusinessHome.php" target="_blank">Consulting Services<br><small></small></a></h1>
         </div>
       </section>
   	  

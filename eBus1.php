@@ -35,7 +35,7 @@ background-size: 2000px 1000px
       
     </style>
     <div class="form">
-            <form name="intCalc" method="post" action="ebus2.php">
+            <form name="intCalc" method="post" action="eBus2.php">
           <div class="logo">
         <div class="header">
 <img src="logo3.png">
