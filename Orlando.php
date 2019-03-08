@@ -76,10 +76,10 @@ div.desc {
 
         
         <ul>
-            <li><a class="active" href="http://localhost:8000/Orlando.php">Home</a></li>
-            <li><a href="http://localhost:8000/Disney.php">Walt DisneyWorld</a></li>
-            <li><a href="http://localhost:8000/Universal.php">Universal Studios</a></li>
-            <li><a href="http://localhost:8000/seaworld.php">SeaWorld</a></li>
+            <li><a class="active" href="Orlando.php">Home</a></li>
+            <li><a href="Disney.php">Walt DisneyWorld</a></li>
+            <li><a href="Universal.php">Universal Studios</a></li>
+            <li><a href="seaworld.php">SeaWorld</a></li>
         </ul>
      <p> Orlando is situated in Central Florida and has a population of over 250,000. Orlando is known as "The Theme Park Capital Of The World" and attracts over 72 million tourists every year. Tourists arrive from all over the world to visit theme parks such as DisneyWorld and Universal Studios. Orlando also holds many conventions and conferences, with The Orange County Convention Center being the second largest in the U.S. Orlando is also home to the University of Central Florida(UCF), which is the largest university in the U.S. in terms of enrollment. In 2017 around 66,000 students were enrolled in UCF. Orlando is sometimes known as "Hollywood East" because there are tons of films shot there. "Jaws 3", "TomorrowLand", "Transformers" and " Lethal Weapon 3" were all shot in Orlando. Orlando is home to over 100 lakes with its biggest lake, "Lake Eola", actually being a giant sinkhole and its deepest point point being 80 feet.</p>
      

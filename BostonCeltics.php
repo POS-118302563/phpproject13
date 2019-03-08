@@ -55,10 +55,10 @@ margin-bottom:15px;
  <body>
  <h1> Boston Celtics</h1>
  <ul>
-  <li><a class="active" href="http://localhost:8000/Orlando.php">Home</a></li>
-  <li><a href="http://localhost:8000/CelticsHistory.php">Former Players</a></li>
+  <li><a class="active" href="Orlando.php">Home</a></li>
+  <li><a href="CelticsHistory.php">Former Players</a></li>
   
-  <li><a href="http://localhost:8000/CelticsRoster.php">Current Roster</a></li>
+  <li><a href="CelticsRoster.php">Current Roster</a></li>
 </ul>
 <div class="img1">
 <img src="https://sportsfly.cbsistatic.com/fly-106/bundles/sportsmediacss/images/team-logos/nba/alt/BOS.svg" alt="TD Garden" width="460" height="500">

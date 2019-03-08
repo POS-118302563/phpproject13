@@ -93,10 +93,10 @@ div.desc {
 <h1>Activities</h1>
 
 <ul>
-  <li><a class="active" href="http://localhost:8000/Orlando.php">Home</a></li>
-  <li><a href="http://localhost:8000/Disney.php">Walt DisneyWorld</a></li>
-  <li><a href="http://localhost:8000/Universal.php">Universal Orlando Resort</a></li>
-  <li><a href="http://localhost:8000/seaworld.php">SeaWorld</a></li>
+  <li><a class="active" href="Orlando.php">Home</a></li>
+  <li><a href="Disney.php">Walt DisneyWorld</a></li>
+  <li><a href="Universal.php">Universal Orlando Resort</a></li>
+  <li><a href="seaworld.php">SeaWorld</a></li>
 </ul>
 
 <h2> Walt DisneyWorld</h2>

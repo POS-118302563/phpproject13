@@ -376,22 +376,22 @@
   	  </div>
   	  <section class="page1">
         <div class="page_container">
-          <h1><a href="http://localhost:8000/Orlando.php" target="_blank">Travel to Orlando, USA<br><small>Completed on 12 April 2017</small></a></h1>
+          <h1><a href="Orlando.php" target="_blank">Travel to Orlando, USA<br><small>Completed on 12 April 2017</small></a></h1>
         </div>
       </section>
   	  <section class="page2">
         <div class="page_container">
-          <h1><a href="http://localhost:8000/newYork.php" target="_blank">Visit New York , USA<br><small>Completed on 25 July 2018</small></a></h1>
+          <h1><a href="newYork.php" target="_blank">Visit New York , USA<br><small>Completed on 25 July 2018</small></a></h1>
         </div>
       </section>
   	  <section class="page3">
         <div class="page_container">
-          <h1><a href="http://localhost:8000/BostonCeltics.php" target="_blank">Boston Celtic's<br><small></small></a></h1>
+          <h1><a href="BostonCeltics.php" target="_blank">Boston Celtic's<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page4">
         <div class="page_container">
-          <h1><a href="http://localhost:8000/ManUtdHome.php" target="_blank">Manchester United<br><small></small></a></h1>
+          <h1><a href="ManUtdHome.php" target="_blank">Manchester United<br><small></small></a></h1>
         </div>
       </section>
   	  <section class="page5">

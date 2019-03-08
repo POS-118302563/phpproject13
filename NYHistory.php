@@ -91,10 +91,10 @@ h1 {
         
         <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="http://localhost:8000/newYork.php">Home</a>
-  <a href="http://localhost:8000/NYHistory.php">History</a>
-  <a href="http://localhost:8000/attractionsNY.php">Tourism</a>
-  <a href="http://localhost:8000/sportNY.php">Sports</a>
+  <a href="newYork.php">Home</a>
+  <a href="NYHistory.php">History</a>
+  <a href="attractionsNY.php">Tourism</a>
+  <a href="sportNY.php">Sports</a>
 </div>
 
 

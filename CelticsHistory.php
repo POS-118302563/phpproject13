@@ -90,10 +90,10 @@ bird {
     <body>
         <h1> Former Players </h1>
  <ul>
-  <li><a class="active" href="http://localhost:8000/BostonCeltics.php">Home</a></li>
-  <li><a href="http://localhost:8000/CelticsHistory.php">Former Players</a></li>
+  <li><a class="active" href="BostonCeltics.php">Home</a></li>
+  <li><a href="CelticsHistory.php">Former Players</a></li>
 
-  <li><a href="http://localhost:8000/CelticsRoster.php">Current Roster</a></li>
+  <li><a href="CelticsRoster.php">Current Roster</a></li>
 </ul>
      <h2> Larry Bird </h2>
       <div class="bird">

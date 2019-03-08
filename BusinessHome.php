@@ -124,11 +124,11 @@ div.desc {
     </div>
           <div id="mySidenav" class="sidenav">
               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="http://localhost:8000/BusinessHome.php">About</a>
-  <a href="http://localhost:8000/BlockChain.php">Blockchain</a>
-  <a href="http://localhost:8000/AutononmousThings.php">Autonomous Things</a>
-  <a href="http://localhost:8000/ImmersiveExperience.php">Immersive Experience</a>
-  <a href="http://localhost:8000/eBus1.php">Services</a>
+  <a href="BusinessHome.php">About</a>
+  <a href="BlockChain.php">Blockchain</a>
+  <a href="AutononmousThings.php">Autonomous Things</a>
+  <a href="hImmersiveExperience.php">Immersive Experience</a>
+  <a href="eBus1.php">Services</a>
 
 </div>
 

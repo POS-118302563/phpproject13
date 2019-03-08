@@ -80,9 +80,9 @@ text-decoration-style:double;
   
     <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="http://localhost:8000/ManUtdHome.php">Home</a>
-  <a href="http://localhost:8000/ManUtdPlayers.php">Former Players</a>
-  <a href="http://localhost:8000/ManUtdCurrentSquad.php">Current Squad</a>
+  <a href="ManUtdHome.php">Home</a>
+  <a href="ManUtdPlayers.php">Former Players</a>
+  <a href="ManUtdCurrentSquad.php">Current Squad</a>
 
 </div>
 
